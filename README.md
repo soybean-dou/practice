@@ -1,4 +1,4 @@
-# HelloWorld
+# practice
 연습용 레포지
 
 ## DjangoGirls
